@@ -2,7 +2,7 @@
 
 ![Static Badge](https://img.shields.io/badge/OS-Windows-orange)
 ![Static Badge](https://img.shields.io/badge/Tool-Unity-navy)
-![Static Badge](https://img.shields.io/badge/language-C#-crimson)
+![Static Badge](https://img.shields.io/badge/language-C%23-crimson)
 ![GitHub last commit](https://img.shields.io/github/last-commit/fayizferosh/ball-game)
 ![GitHub language count](https://img.shields.io/github/languages/count/fayizferosh/ball-game)
 ![GitHub top language](https://img.shields.io/github/languages/top/fayizferosh/ball-game)
