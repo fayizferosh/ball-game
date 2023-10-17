@@ -14,7 +14,7 @@
 
 Game development code files and assets con be found in [Ball Folder](https://github.com/fayizferosh/ball-game/tree/main/Ball).
 
-Rendered Game which is playable if downloaded is in the Ball Game Folder
+Rendered Game which is playable once downloaded is available in the [Ball Game Folder](https://github.com/fayizferosh/ball-game/tree/main/). Use "Ball.exe" application to start the game.
 
 ## Screenshot of Game
 
