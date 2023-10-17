@@ -12,7 +12,8 @@
 
 > As part of TechFest at my college there was a Game Development workshop using Unity and this is the game I developed with the information learned in that workshop.
 
-Game development code files and assets con be found in Ball Folder.
+Game development code files and assets con be found in [Ball Folder](https://github.com/fayizferosh/ball-game/tree/main/Ball).
+
 Rendered Game which is playable if downloaded is in the Ball Game Folder
 
 ## Screenshot of Game
