@@ -2,7 +2,7 @@
 
 ![Static Badge](https://img.shields.io/badge/OS-Windows-orange)
 ![Static Badge](https://img.shields.io/badge/Tool-Unity-navy)
-![Static Badge](https://img.shields.io/badge/language-Arduino_Code_--_C_C++-crimson)
+![Static Badge](https://img.shields.io/badge/language-C#-crimson)
 ![GitHub last commit](https://img.shields.io/github/last-commit/fayizferosh/ball-game)
 ![GitHub language count](https://img.shields.io/github/languages/count/fayizferosh/ball-game)
 ![GitHub top language](https://img.shields.io/github/languages/top/fayizferosh/ball-game)
@@ -12,7 +12,7 @@
 
 > As part of TechFest at my college there was a Game Development workshop using Unity and this is the game I developed with the information learned in that workshop.
 
-Game development code files and assets con be found in [Ball Folder](https://github.com/fayizferosh/ball-game/tree/main/Ball).
+Game development code files and assets can be found in [Ball Folder](https://github.com/fayizferosh/ball-game/tree/main/Ball).
 
 ## How to Download the Game and Play
 
