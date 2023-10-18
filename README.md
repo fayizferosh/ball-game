@@ -10,7 +10,7 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/fayizferosh/ball-game)
 ![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/fayizferosh/ball-game)
 
-> As part of TechFest at my college there was a Game Development workshop using Unity and this is the game I developed with the information learned in that workshop.
+> As part of TechFest at my college there was a Game Development workshop using Unity and this is the game I developed with the information learned in that workshop. This is basically an obstacle avoidance and pick up assets game.
 
 Game development code files and assets can be found in [Ball Folder](https://github.com/fayizferosh/ball-game/tree/main/Ball).
 
